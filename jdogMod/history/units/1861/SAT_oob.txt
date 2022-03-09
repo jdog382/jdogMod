@@ -1,0 +1,50 @@
+RYU = { value = 125 }
+SUL = { value = 100 }
+BRU = { value = 100 }
+
+leader = {
+    name = "Saigo Takamori"
+    date = 1836.1.1
+    type = land
+    personality = unit_personality
+    background = inspiringxgifted_administrator
+}
+
+leader = {
+    name = "Kuroda Kiyotaka"
+    date = 1836.1.1
+    type = land
+    personality = unit_personality
+    background = mercilessxrising_star
+}
+
+army = {
+	name = "Army of Daimyo Shimazu"
+	location = 1662
+	regiment = {
+		name= "1.Samurai"
+		type = dragoon
+		home = 1662
+	}
+	regiment = {
+		name= "2.Samurai"
+		type = dragoon
+		home = 1662
+	}
+	regiment = {
+		name= "1.Satsuma"
+		type = infantry
+		home = 1662
+	}
+	regiment = {
+		name= "2.Satsuma"
+		type = infantry
+		home = 1661
+	}
+	regiment = {
+		name= "3.Satsuma"
+		type = infantry
+		home = 1660
+	}
+}
+

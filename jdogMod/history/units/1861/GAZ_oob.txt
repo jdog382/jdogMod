@@ -1,0 +1,54 @@
+ZUL = {
+	value = 30
+}
+
+MAT = {
+	value = 20
+}
+
+SUA = {
+	value = 50
+}
+
+leader = {
+    name = "Soshangane"
+    date = 1836.1.1
+    type = land
+    personality = unit_personality
+    background = brutishxnatural_born_leader
+}
+
+army = {
+	name = "Army of the Gaza Empire"
+	location = 2050
+	regiment = {
+		name= "King's Guard"
+		type = irregular
+		home = 2050
+	}
+
+	regiment = {
+		name= "Gaza Warriors"
+		type = irregular
+		home = 2050
+	}
+
+	regiment = {
+		name= "Nguni Warriors"
+		type = irregular
+		home = 2051
+	}
+
+	regiment = {
+		name= "Maputo Warriors"
+		type = irregular
+		home = 2049
+	}
+
+	regiment = {
+		name= "Massekisse Warriors"
+		type = irregular
+		home = 2052
+	}
+
+}

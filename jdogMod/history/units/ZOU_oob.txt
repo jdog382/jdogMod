@@ -1,0 +1,29 @@
+ENG = {
+	value = 25
+}
+
+NET = {
+	value = 50
+}
+
+USA = {
+	value = 5
+}
+
+leader = {
+    name = "Hendrik Potgieter"
+    date = 1836.1.1
+    type = land
+    personality = unit_personality
+    background = resolutexexpert_raider
+}
+
+army = {
+	name = "Voortrekkers"
+	location = 2110
+	regiment = {
+		name= "Zoutpansberg Commando"
+		type = irregular
+		home = 2110
+	}
+}

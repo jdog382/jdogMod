@@ -1,0 +1,5 @@
+name = "jdogMod"
+path = "mod/jdogMod"
+user_dir = "jdogMod"
+replace_path = "history/units"
+replace_path = "history/units/1861"

@@ -1,0 +1,20 @@
+ENG = {
+	value = 50
+}
+
+army = {
+	name = "Al Khalifa Army"
+	location = 1162
+	regiment = {
+		name= "The Sultan's Elite"
+		type = irregular
+		home = 1162	}
+}
+
+leader = {
+    name = "Muhammad bin Al-Khalifa	"
+    date = 1836.1.1
+    type = land
+    personality = unit_personality
+    background = skilledxaristocrat
+}
