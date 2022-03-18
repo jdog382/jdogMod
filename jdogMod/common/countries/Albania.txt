@@ -19,7 +19,7 @@ party = {
 party = {
 	name = "ALB_reactionary"
 	start_date = 1877.1.1
-	end_date = 1935.1.1
+	end_date = 9999.1.1
 
 	ideology = reactionary
 
@@ -34,7 +34,7 @@ party = {
 party = {
 	name = "ALB_liberal"
 	start_date = 1912.1.1
-	end_date = 1935.1.1
+	end_date = 9999.1.1
 
 	ideology = liberal
 
